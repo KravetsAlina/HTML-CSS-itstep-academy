@@ -1,0 +1,115 @@
+
+body{
+	background: #EEF3FA;
+}
+.wrap{
+	background: #FFFFFF;
+	width: 300px;
+	height: 470px;
+	font-family: Arial;
+	position: absolute;
+	margin-left: 50px;
+}
+.main{
+	position: relative;
+	bottom: 150px;
+	left: 25px;
+}
+.present{
+    background:#DD3B3B;
+	width: 56px;
+	height: 75px;
+	
+	border-radius: 10px; 
+	color: white;
+	font-size: 12px;
+	text-align: center;
+	position: relative;
+	top: 190px;
+	left: 25px;
+	z-index: 1;
+	
+}
+.kredit{
+	background:#FFFFFF;
+	border-radius: 10px;
+	width: 53px;
+	height: 60px;
+	display:inline-block;
+	margin-top: -12px;
+	
+}
+.mini{
+	background:rgba(254,254,254,0.7);
+	width: 65px;
+	height: 100px;
+	border-radius: 10px;
+	border: 1px solid #E4E3E3;
+	padding-left:5px;
+    line-height: 5px;
+	position: relative;
+	top: 20px;
+	left: 120px;
+	z-index: 1;
+
+}
+#c1{
+	color:#999999;
+	font-size: 12px;
+}
+#c2{
+	color:#329A1C;
+	font-size: 12px;
+}
+
+.akcija{
+	position: relative;
+	bottom: 393px;
+	left: 10px;
+	z-index: 1;
+}
+.center{
+	position: relative;
+	bottom: 150px;
+	left: 20px;
+}
+.a1{
+	color: red;
+	font-size: 14px;
+}
+.LG{
+	color: #104889;
+}
+.recall{
+	color: #878CDC;
+	font-size: 12px;
+	position: relative;
+	bottom: 250px;
+	left: 130px;
+}
+.price{
+	background: #FDFADC;
+	width: 120px;
+	height: 40px;
+	line-height: 40px;
+	color: #329A46;
+	font-size: 25px;
+	font-weight: bold;
+	text-align:center;
+	border-radius: 10px;
+	position: relative;
+	bottom: 180px;
+	left: 20px;
+}
+.paid{
+	background:#0C8404;
+	width: 110px;
+	height: 30px;
+	font-size: 17px;
+	font-weight: bold;
+	color: white;
+	border-radius: 10px;
+	position: relative;
+	bottom: 215px;
+	left: 145px;
+}

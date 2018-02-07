@@ -1,0 +1,49 @@
+﻿
+table{
+	border-collapse:collapse;
+}
+th{
+	background:#283B4D;
+	font-family:Arial;
+	font-weight: 100;
+	font-size:20px;
+	color:#99B1B8;
+	padding: 7px;
+	border-radius: 5px 5px 0px 0px;
+}
+.main{
+	border-top:0.5px solid #4897CC;
+	background: #4897CC;
+	height: 100px;
+	vertical-align:top;
+}
+#circle{
+	width:80px;
+	height:80px;
+	font-family:Arial;
+	
+	color:white;
+	border-radius: 60px 60px 60px 60px;
+	border: 3px solid white;
+	margin: 0 auto;
+}
+#c1{
+	font-size:30px;
+	font-family:Arial;
+}
+td{
+	text-align:center;
+	color:#A0A8B5;
+	padding: 10px;
+	font-family:Arial;
+	border:0.5px solid #F6F6F6;
+}
+.bottom{
+	background: #2d95bc;
+	border-radius: 0px 0px 5px 5px;
+}
+a{
+	text-decoration: none;
+	color:white;
+}
+/* Вижу что шрифт отличается. Уже несколько других шрифтов подставила, но все не то. */
